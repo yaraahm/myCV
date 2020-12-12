@@ -4,9 +4,16 @@
 	text-align: center;
 }
 
+#title2 {
+	padding-top: 5px;
+	font-size:10px;
+	text-align: center;
+}
+
 a{
 	padding-right:25px;
 	text-decoration: none;
+	text-align: center;
 }
 
 .para{
@@ -15,5 +22,10 @@ a{
 .wrapper{
 	padding: 10px;
 	padding-bottom: 5px;
+	margin: 0 auto;
+}
+h3{
+	text-align: center;
+	text-decoration: none;
 	margin: 0 auto;
 }
