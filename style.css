@@ -1,0 +1,19 @@
+
+#title {
+	font-size:15px;
+	text-align: center;
+}
+
+a{
+	padding-right:25px;
+	text-decoration: none;
+}
+
+.para{
+	text-align: center;
+}
+.wrapper{
+	padding: 10px;
+	padding-bottom: 5px;
+	margin: 0 auto;
+}
